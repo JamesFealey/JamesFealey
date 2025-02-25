@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey!
+I am a computer science student currently studying at Royal Holloway University of London.
 
-<!--
-**JamesFealey/JamesFealey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a simple fresh github account to document all the projects I work on to use as a future reference/CV.
 
-Here are some ideas to get you started:
+# Projects
+> bold denotes current projects I am working on
+ - DeviousAIO (Java) - a fully automated Old School RuneScape botting program
+ - **Area mapping and traversal robot** (Java) - a LEGO LejOS EV3 robot made for a group coursework in my first year of university
+ - Graph generation and traversal visualiser (C#) - a simple console app for the step by step visualisation of various generation and traversal algorithms
+ - **Roblox predator tracer** (C# / Neo4j) - a data scraping and visualisation tool designed to link 'suspicious' roblox accounts together via analysis of their account information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages:
+## Preferred:
+ - Java
+ - C#
+
+## Studied:
+ - Javascript
+ - Assembly (MIPS)
+ - HTML
+ - CSS
+ - Python
+ - C++
