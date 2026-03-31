@@ -1,4 +1,4 @@
-> *Most of my technical work is typically done on GitLab, hence the contributions - this page is for completeness.*
+> *Most of my technical work is typically done on GitLab / my universities instance, hence the contributions - this page is for completeness.*
 
 # Hey!
 I am a 2nd year computer science student at Royal Holloway University of London.
