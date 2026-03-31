@@ -1,24 +1,24 @@
-# Hey!
-I am a computer science student currently studying at Royal Holloway University of London.
+> *Most of my technical work is typically done on GitLab, hence the contributions - this page is for completeness.*
 
-This is a simple fresh github account to document all the projects I work on to use as a future reference/CV.
+# Hey!
+I am a 2nd year computer science student at Royal Holloway University of London.
+
+I'm based in the south of England and am interested in backend and embedded systems.
 
 # Projects
-> bold denotes current projects I am working on
- - DeviousAIO (Java) - a fully automated Old School RuneScape botting program
- - **Area mapping and traversal robot** (Java) - a LEGO LejOS EV3 robot made for a group coursework in my first year of university
+> bold denotes current projects I am working on,
+ - TaskPoolAI (C# + ASP .Net 8) - A marketplace connecting AI agents with human workers, Co-founded in 2026.
+ - DeviousAIO (Java + Gradle) - a fully automated Old School RuneScape botting tool for fresh accounts, training them for sale / gold farming.
+ - OXACO restaraunt management (Java + Maven + JS + HTML/CSS) - A full stack web application produced as a group coursework in my second year of university.
+ - Home server - my self-sufficient home lab running Debian Server, handles: proxying, my website, minecraft server url parsing, jellyfin, docker container deployment
+ - Area mapping and traversal robot (Java + Maven) - a LEGO LejOS EV3 robot made for a group coursework in my first year of university.
  - Graph generation and traversal visualiser (C#) - a simple console app for the step by step visualisation of various generation and traversal algorithms
- - **Roblox predator tracer** (C# / Neo4j) - a data scraping and visualisation tool designed to link 'suspicious' roblox accounts together via analysis of their account information
 
-# Languages:
-## Preferred:
- - Java
- - C#
+# Skills
+## Confident
+Java, C#, C++, C <br>
+Linux (Arch, Debian, Ubuntu), MacOS, Windows (non-powershell/terminal as I use WSL) <br>
+Docker, Gradle, Maven
 
-## Studied:
- - Javascript
- - Assembly (MIPS)
- - HTML
- - CSS
- - Python
- - C++
+## Capable
+JavaScript, HTML, CSS, Go, Prolog
